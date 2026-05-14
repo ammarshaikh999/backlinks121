@@ -1,0 +1,25 @@
+brand_name: "Jacket Cult"
+money_site: "https://jacketcult.shop/"
+niche: "ecommerce fashion jackets"
+
+allowed_backlink_types:
+  - guest_post
+  - profile
+  - social_bookmarking
+  - web_directory
+  - article
+  - business_listing
+  - email_submission
+  - directory_business
+
+priority_thresholds:
+  high: 75
+  medium: 50
+
+request:
+  timeout_seconds: 20
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36"
+
+output:
+  csv_file: "backlink_pipeline.csv"
+  xlsx_file: "backlink_pipeline.xlsx"
