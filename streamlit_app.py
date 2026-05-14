@@ -355,4 +355,3 @@ else:
     </div>
     """, unsafe_allow_html=True)
 PYEOF
-echo "Done — $(wc -l < /home/claude/backlink-tool/streamlit_app.py) lines"
