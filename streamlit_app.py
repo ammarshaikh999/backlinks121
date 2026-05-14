@@ -1,4 +1,3 @@
-cat > /home/claude/backlink-tool/streamlit_app.py << 'PYEOF'
 import sys
 import os
 import traceback
